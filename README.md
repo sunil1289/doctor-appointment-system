@@ -84,7 +84,7 @@ Apache Tomcat Server (or any other servlet container)
 Clone the repository:
 
 bash
-git clone https://github.com/sunil1289/DoctorAppointmentBookingSystem.git
+git clone https://github.com/sunil1289doctor-appointment-system.git
 Import the project into Eclipse IDE.
 
 Configure the Tomcat server and deploy the project.
